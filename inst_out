@@ -1,0 +1,37 @@
+Options for exceptions:
+
+  0. Throw no exception
+  1. Throw & catch NullPointerException
+  2. Throw & catch ClassCastException
+  3. Throw & catch ArrayIndexOutOfBoundsException
+  4. Throw & catch CheckedException
+  5. Throw & catch UncheckedException
+
+Which option (0-5, or -1 to quit)? EXPECT: NO EXCEPTION
+Finally block ...
+
+Which option (0-5, or -1 to quit)? EXPECT: NullPointerException
+Caught NullPointerException
+Finally block ...
+
+Which option (0-5, or -1 to quit)? EXPECT: ClassCastException
+Caught ClassCastException
+Finally block ...
+
+Which option (0-5, or -1 to quit)? EXPECT: ArrayIndexOutOfBoundsException
+Caught ArrayIndexOutOfBoundsException
+Finally block ...
+
+Which option (0-5, or -1 to quit)? EXPECT: CheckedException
+Caught CheckedException
+Finally block ...
+
+Which option (0-5, or -1 to quit)? EXPECT: UncheckedException
+Caught UncheckedException
+Finally block ...
+
+Which option (0-5, or -1 to quit)? Method corresponding to 6 DNE.
+Finally block ...
+
+Which option (0-5, or -1 to quit)? Terminating
+Finally block ...
